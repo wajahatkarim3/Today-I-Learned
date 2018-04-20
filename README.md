@@ -6,11 +6,6 @@ A collection of concise write-ups on small things I learn day to day across a va
 _1 TILs and counting..._
 
 ---
-## Categories
-
-* [Kotlin](#kotlin)
-
----
 ### Kotlin
 - [Safely accessing lateinit properties in Kotlin](kotlin/lateinit-safe-access.md)
 
