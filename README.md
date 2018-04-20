@@ -8,6 +8,7 @@ _1 TILs and counting..._
 ---
 ### Kotlin
 - [Safely accessing lateinit properties in Kotlin](kotlin/lateinit-safe-access.md)
+- [Constants in Kotlin](kotlin/constants-in-kotlin.md)
 
 ## Inspiration
 Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and first
