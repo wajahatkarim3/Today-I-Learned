@@ -3,13 +3,16 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. These are things that don't really warrant a full blog post. 
 
-_3 TILs and counting..._
+_4 TILs and counting..._
 
 ---
 ### Kotlin
 - [Safely accessing lateinit properties in Kotlin](kotlin/lateinit-safe-access.md)
 - [Constants in Kotlin](kotlin/constants-in-kotlin.md)
-- [Gradle Dependencies using Auto Complete with Kotlin](kotlin/gradle-autocomplete.md) 
+
+## Gradle
+- [Gradle Dependencies using Auto Complete with Kotlin](kotlin/gradle-autocomplete.md)
+- [Gradle Dependencies using Google's Way](gradle/gradle-google-way.md)
 
 ## Inspiration
 Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and first
