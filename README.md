@@ -5,6 +5,8 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 _4 TILs and counting..._
 
+**You can check my TILs list [here](https://wajahatkarim.com/tags/today-i-learned/)**
+
 ---
 ### Kotlin
 - [Safely accessing lateinit properties in Kotlin](kotlin/lateinit-safe-access.md)
