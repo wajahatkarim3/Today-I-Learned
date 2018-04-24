@@ -16,6 +16,7 @@ _4 TILs and counting..._
 - [Gradle Dependencies using Auto Complete with Kotlin](kotlin/gradle-autocomplete.md)
 - [Gradle Dependencies using Google's Way](gradle/gradle-google-way.md)
 
+---
 ## Inspiration
 Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and first
 learned from
