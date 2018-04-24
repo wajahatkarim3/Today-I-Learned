@@ -15,6 +15,7 @@ _4 TILs and counting..._
 ## Gradle
 - [Gradle Dependencies using Auto Complete with Kotlin](kotlin/gradle-autocomplete.md)
 - [Gradle Dependencies using Google's Way](gradle/gradle-google-way.md)
+- [Defining Constants in Gradle](gradle/gradle-constants.md)
 
 ---
 ## Inspiration
