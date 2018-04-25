@@ -12,12 +12,12 @@ _6 TILs and counting..._
 - [Safely accessing lateinit properties in Kotlin](kotlin/lateinit-safe-access.md)
 - [Constants in Kotlin](kotlin/constants-in-kotlin.md)
 
-## Gradle
+### Gradle
 - [Gradle Dependencies using Auto Complete with Kotlin](kotlin/gradle-autocomplete.md)
 - [Gradle Dependencies using Google's Way](gradle/gradle-google-way.md)
 - [Defining Constants in Gradle](gradle/gradle-constants.md)
 
-## Android
+### Android
 - [Difference between Build Type, Flavour, and Build Variant in Android](android/buildtype-vs-flavour-variant.md)
 
 ---
