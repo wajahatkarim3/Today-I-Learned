@@ -3,7 +3,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. These are things that don't really warrant a full blog post. 
 
-_6 TILs and counting..._
+_7 TILs and counting..._
 
 **You can check my TILs list [here](https://wajahatkarim.com/tags/today-i-learned/)**
 
@@ -11,6 +11,7 @@ _6 TILs and counting..._
 ### Kotlin
 - [Safely accessing lateinit properties in Kotlin](kotlin/lateinit-safe-access.md)
 - [Constants in Kotlin](kotlin/constants-in-kotlin.md)
+- [Domain-Specific Language (DSL) using Kotlin](kotlin/dsl-kotlin.md)
 
 ### Gradle
 - [Gradle Dependencies using Auto Complete with Kotlin](kotlin/gradle-autocomplete.md)
