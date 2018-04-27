@@ -1,9 +1,9 @@
-# TIL
+# Today I Learned
 > Today I Learned
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. These are things that don't really warrant a full blog post. 
 
-_7 TILs and counting..._
+_8 TILs and counting..._
 
 **You can check my TILs list [here](https://wajahatkarim.com/tags/today-i-learned/)**
 
@@ -20,6 +20,7 @@ _7 TILs and counting..._
 
 ### Android
 - [Difference between Build Type, Flavour, and Build Variant in Android](android/buildtype-vs-flavour-variant.md)
+- [Percentage Width/Height using Constraint Layout](android/percent-constraint-layout.md)
 
 ---
 ## Inspiration
