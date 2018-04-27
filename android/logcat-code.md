@@ -8,6 +8,10 @@ Now, when you get this kind of logs while coding your awesome apps, then your fi
 
 Now, some developers go to source code's exact line by navigation (```Ctrl + N```) and searching about ```tag``` etc. Or there might be other ways. Let's look at more cleaner and easier way to fix this issue.
 
+After the fix, your logcat will be something similar to this.
+
+![](https://cdn-images-1.medium.com/max/2000/1*pruJtyUU0U3-d6X1rdkuXQ.png)
+
 ## Traditional Way (using android.util.Log)
 Add [this class](https://gist.github.com/wajahatkarim3/21fc299f22172c4a147ba3ce75d2d761#file-logutil-java) in your app code, and call it like ```LogUtil.d("MyTag", "My Custom Message")``` instead of ```Log.d("tag", "message")```.
 
