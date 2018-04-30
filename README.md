@@ -12,7 +12,7 @@ _11 TILs and counting..._
 - [Safely accessing lateinit properties in Kotlin](kotlin/lateinit-safe-access.md)
 - [Constants in Kotlin](kotlin/constants-in-kotlin.md)
 - [Domain-Specific Language (DSL) using Kotlin](kotlin/dsl-kotlin.md)
-- [Sealed Classes](kotlin/sealed-classes.md)
+- [Sealed Classes in Kotlin](kotlin/sealed-classes.md)
 
 ### Gradle
 - [Gradle Dependencies using Auto Complete with Kotlin](kotlin/gradle-autocomplete.md)
