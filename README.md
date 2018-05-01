@@ -24,6 +24,7 @@ _11 TILs and counting..._
 - [Percentage Width/Height using Constraint Layout](android/percent-constraint-layout.md)
 - [Go to Code Line from Logcat Output Line](android/logcat-code.md)
 - [Closing All Actvities and Launching Any Specific](android/close-all-acts.md)
+- [Live Code Templates in Android Studio](android/live-templates.md)
 
 ---
 ## Inspiration
