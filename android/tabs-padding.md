@@ -32,7 +32,7 @@ This is ```TabLayout``` and ```ViewPager``` in ```XML``` layout.
 
 But, as I run it, this is how it looked like:
 
-![]()
+<img src="https://raw.githubusercontent.com/wajahatkarim3/Today-I-Learned/master/android/resources/tabs_before_padding.png" data-canonical-src="https://raw.githubusercontent.com/wajahatkarim3/Today-I-Learned/master/android/resources/tabs_before_padding.png" width="300" />
 
 But, in Android Support library, there are two attributes for ```TabLayout``` which can fix this issue very easily. Just add these two lines in ```TabLayout``` and you're done!
 
@@ -43,4 +43,4 @@ app:tabPaddingEnd="10dp"
 
 Now, when you run, app will show like this:
 
-![]()
+<img src="https://raw.githubusercontent.com/wajahatkarim3/Today-I-Learned/master/android/resources/tabs_after_padding.png" data-canonical-src="https://raw.githubusercontent.com/wajahatkarim3/Today-I-Learned/master/android/resources/tabs_after_padding.png" width="300" />
