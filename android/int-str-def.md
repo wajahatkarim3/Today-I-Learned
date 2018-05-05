@@ -69,4 +69,4 @@ class MyPicLibrary
 ******
 The important topic here to understand is why we are not using ```enum```s? Although you can use it for similar purposes but they are not as memory efficient as ```static final int``` constants. Here's a nice video of performance optimization discussing the similar topic by Google below.
 
-[![The price of ENUMs (100 Days of Google Dev)](//img.youtube.com/vi/Hzs6OBcvNQE/0.jpg)](https://www.youtube.com/watch?v=Hzs6OBcvNQE?t=35s "The price of ENUMs (100 Days of Google Dev)")
+[![](http://i3.ytimg.com/vi/Hzs6OBcvNQE/maxresdefault.jpg)](https://www.youtube.com/watch?v=Hzs6OBcvNQE)
