@@ -26,7 +26,7 @@ _14 TILs and counting..._
 - [Closing All Actvities and Launching Any Specific](android/close-all-acts.md)
 - [Live Code Templates in Android Studio](android/live-templates.md)
 - [Adding Padding in Tabs in Android](android/tabs-padding.md)
-- [IntDef and StringDef in Android[(android/int-str-def.md)
+- [IntDef and StringDef in Android](android/int-str-def.md)
 
 ---
 ## Inspiration
