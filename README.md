@@ -27,6 +27,7 @@ _14 TILs and counting..._
 - [Live Code Templates in Android Studio](android/live-templates.md)
 - [Adding Padding in Tabs in Android](android/tabs-padding.md)
 - [IntDef and StringDef in Android](android/int-str-def.md)
+- [Creating Separate Modules for Debug And Release](android/debug-release-modules.md)
 
 ---
 ## Inspiration
