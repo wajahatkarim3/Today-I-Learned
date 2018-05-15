@@ -5,7 +5,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 Read more about why and how I started this at: https://hackernoon.com/today-i-learned-ok-technically-yesterday-65c64e1dcb6
 
-_15 TILs and counting..._
+_16 TILs and counting..._
 
 **You can check my TILs list [here](https://wajahatkarim.com/tags/today-i-learned/)**
 
@@ -15,6 +15,7 @@ _15 TILs and counting..._
 - [Constants in Kotlin](kotlin/constants-in-kotlin.md)
 - [Domain-Specific Language (DSL) using Kotlin](kotlin/dsl-kotlin.md)
 - [Sealed Classes in Kotlin](kotlin/sealed-classes.md)
+- [Inline Functions in Kotlin[(kotlin/inline-funs.md) :new: :
 
 ### Gradle
 - [Gradle Dependencies using Auto Complete with Kotlin](kotlin/gradle-autocomplete.md)
@@ -29,7 +30,7 @@ _15 TILs and counting..._
 - [Live Code Templates in Android Studio](android/live-templates.md)
 - [Adding Padding in Tabs in Android](android/tabs-padding.md)
 - [IntDef and StringDef in Android](android/int-str-def.md)
-- [Creating Separate Modules for Debug And Release](android/debug-release-modules.md) :new:
+- [Creating Separate Modules for Debug And Release](android/debug-release-modules.md)
 
 ---
 ## Inspiration
