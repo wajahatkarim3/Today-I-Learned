@@ -15,7 +15,7 @@ _16 TILs and counting..._
 - [Constants in Kotlin](kotlin/constants-in-kotlin.md)
 - [Domain-Specific Language (DSL) using Kotlin](kotlin/dsl-kotlin.md)
 - [Sealed Classes in Kotlin](kotlin/sealed-classes.md)
-- [Inline Functions in Kotlin](kotlin/inline-funs.md) :new: :
+- [Inline Functions in Kotlin](kotlin/inline-funs.md) :new:
 
 ### Gradle
 - [Gradle Dependencies using Auto Complete with Kotlin](kotlin/gradle-autocomplete.md)
