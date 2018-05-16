@@ -5,7 +5,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 Read more about why and how I started this at: https://hackernoon.com/today-i-learned-ok-technically-yesterday-65c64e1dcb6
 
-_16 TILs and counting..._
+_17 TILs and counting..._
 
 **You can check my TILs list [here](https://wajahatkarim.com/tags/today-i-learned/)**
 
@@ -15,7 +15,8 @@ _16 TILs and counting..._
 - [Constants in Kotlin](kotlin/constants-in-kotlin.md)
 - [Domain-Specific Language (DSL) using Kotlin](kotlin/dsl-kotlin.md)
 - [Sealed Classes in Kotlin](kotlin/sealed-classes.md)
-- [Inline Functions in Kotlin](kotlin/inline-funs.md) :new:
+- [Inline Functions in Kotlin](kotlin/inline-funs.md) 
+- [Variable Number of Arguments in Methods in Kotlin](kotlin/varargs.md) :new:
 
 ### Gradle
 - [Gradle Dependencies using Auto Complete with Kotlin](kotlin/gradle-autocomplete.md)
