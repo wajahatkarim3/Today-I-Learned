@@ -17,7 +17,7 @@ _18 TILs and counting..._
 - [Sealed Classes in Kotlin](kotlin/sealed-classes.md)
 - [Inline Functions in Kotlin](kotlin/inline-funs.md) 
 - [Variable Number of Arguments in Methods in Kotlin](kotlin/varargs.md) :new:
-- [Launching Activities using Kotlin DSL](kotlin/activity-dsl.md)
+- [Launching Activities using Kotlin DSL](kotlin/activity-dsl.md) :new:
 
 ### Gradle
 - [Gradle Dependencies using Auto Complete with Kotlin](kotlin/gradle-autocomplete.md)
