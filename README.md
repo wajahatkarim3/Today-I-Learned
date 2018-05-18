@@ -5,7 +5,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 Read more about why and how I started this at: https://hackernoon.com/today-i-learned-ok-technically-yesterday-65c64e1dcb6
 
-_18 TILs and counting..._
+_19 TILs and counting..._
 
 **You can check my TILs list [here](https://wajahatkarim.com/tags/today-i-learned/)**
 
