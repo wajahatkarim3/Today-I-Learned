@@ -18,6 +18,7 @@ _18 TILs and counting..._
 - [Inline Functions in Kotlin](kotlin/inline-funs.md) 
 - [Variable Number of Arguments in Methods in Kotlin](kotlin/varargs.md) :new:
 - [Launching Activities using Kotlin DSL](kotlin/activity-dsl.md) :new:
+- [The with() operator in Kotlin](kotlin/with-kotlin.md) 
 
 ### Gradle
 - [Gradle Dependencies using Auto Complete with Kotlin](kotlin/gradle-autocomplete.md)
