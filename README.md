@@ -16,9 +16,9 @@ _18 TILs and counting..._
 - [Domain-Specific Language (DSL) using Kotlin](kotlin/dsl-kotlin.md)
 - [Sealed Classes in Kotlin](kotlin/sealed-classes.md)
 - [Inline Functions in Kotlin](kotlin/inline-funs.md) 
-- [Variable Number of Arguments in Methods in Kotlin](kotlin/varargs.md) :new:
+- [Variable Number of Arguments in Methods in Kotlin](kotlin/varargs.md)
 - [Launching Activities using Kotlin DSL](kotlin/activity-dsl.md) :new:
-- [The with() operator in Kotlin](kotlin/with-kotlin.md) 
+- [The with() operator in Kotlin](kotlin/with-kotlin.md) :new:
 
 ### Gradle
 - [Gradle Dependencies using Auto Complete with Kotlin](kotlin/gradle-autocomplete.md)
