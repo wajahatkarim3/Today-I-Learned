@@ -35,6 +35,7 @@ Then add the ```Service``` in your ```AndroidManifest.xml```
   <action android:name=”com.google.firebase.MESSAGING_EVENT”/>
  </intent-filter>
 </service>
+```
 
 Now if you try again, you will display notifications while your app is in foreground!
 
@@ -43,7 +44,6 @@ In real life, your ```onMessageReceived``` content will be slightly more complex
 The problem you have now is that your ```onMessageReceived``` is ONLY called when the app is in foreground, if you app if is background, the Google Services will take care of displaying your message.
 
 The solution? don’t use the ```“notification”``` message payload and use ```“data”``` instead.
-```
 
 ### Using Data
 
