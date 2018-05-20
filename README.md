@@ -5,7 +5,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 Read more about why and how I started this at: https://hackernoon.com/today-i-learned-ok-technically-yesterday-65c64e1dcb6
 
-_19 TILs and counting..._
+_20 TILs and counting..._
 
 **You can check my TILs list [here](https://wajahatkarim.com/tags/today-i-learned/)**
 
@@ -35,8 +35,8 @@ _19 TILs and counting..._
 - [IntDef and StringDef in Android](android/int-str-def.md)
 - [Creating Separate Modules for Debug And Release](android/debug-release-modules.md)
 
-### Firebase
-- [Firebase Notifications in Background & Foreground](firebase/notifs-background.md)
+### Firebase :new:
+- [Firebase Notifications in Background & Foreground](firebase/notifs-background.md) :new:
 
 ---
 ## Inspiration
