@@ -35,6 +35,9 @@ _19 TILs and counting..._
 - [IntDef and StringDef in Android](android/int-str-def.md)
 - [Creating Separate Modules for Debug And Release](android/debug-release-modules.md)
 
+### Firebase
+- [Firebase Notifications in Background & Foreground](firebase/notifs-background.md)
+
 ---
 ## Inspiration
 Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and first
