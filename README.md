@@ -38,7 +38,7 @@ _22 TILs and counting..._
 - [RecyclerView Scrolling Issue with NestedScrollView](android/recycler-scrolling.md) :new:
 
 ### Firebase :new:
-- [Firebase Notifications in Background & Foreground](firebase/notifs-background.md) :new:
+- [Firebase Notifications in Background & Foreground](firebase/notifs-background.md)
 
 ---
 ## Inspiration
