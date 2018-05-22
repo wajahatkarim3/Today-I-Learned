@@ -37,7 +37,7 @@ _22 TILs and counting..._
 - [Creating Separate Modules for Debug And Release](android/debug-release-modules.md)
 - [RecyclerView Scrolling Issue with NestedScrollView](android/recycler-scrolling.md) :new:
 
-### Firebase
+### Firebase :new:
 - [Firebase Notifications in Background & Foreground](firebase/notifs-background.md)
 
 ---
