@@ -35,7 +35,8 @@ _22 TILs and counting..._
 - [Adding Padding in Tabs in Android](android/tabs-padding.md)
 - [IntDef and StringDef in Android](android/int-str-def.md)
 - [Creating Separate Modules for Debug And Release](android/debug-release-modules.md)
-- [RecyclerView Scrolling Issue with NestedScrollView](android/recycler-scrolling.md) :new:
+- [RecyclerView Scrolling Issue with NestedScrollView](android/recycler-scrolling.md) 
+- [Add Logs without Code in Android](android/logs-without-code.md) :new:
 
 ### Firebase :new:
 - [Firebase Notifications in Background & Foreground](firebase/notifs-background.md)
