@@ -37,6 +37,7 @@ _24 TILs and counting..._
 - [Creating Separate Modules for Debug And Release](android/debug-release-modules.md)
 - [RecyclerView Scrolling Issue with NestedScrollView](android/recycler-scrolling.md) 
 - [Add Logs without Code in Android](android/logs-without-code.md) :new:
+- [Auto Sizing Text Views](android/autosize-textview.md)
 
 ### Firebase :new:
 - [Firebase Notifications in Background & Foreground](firebase/notifs-background.md)
