@@ -1,6 +1,8 @@
 # Today I Learned
 > Today I Learned
 
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://wajahatkarim.com)
+
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. These are things that don't really warrant a full blog post. 
 
 Read more about why and how I started this at: https://hackernoon.com/today-i-learned-ok-technically-yesterday-65c64e1dcb6
