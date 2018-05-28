@@ -42,7 +42,7 @@ _24 TILs and counting..._
 - [Auto Sizing Text Views](android/autosize-textview.md) :new: 
 - [RecyclerView Item Margins and Padding](android/recyclerview-margins.md)
 
-### Firebase :new:
+### Firebase
 - [Firebase Notifications in Background & Foreground](firebase/notifs-background.md)
 
 ---
