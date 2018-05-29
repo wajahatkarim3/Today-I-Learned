@@ -41,7 +41,7 @@ _24 TILs and counting..._
 - [Add Logs without Code in Android](android/logs-without-code.md)
 - [Auto Sizing Text Views](android/autosize-textview.md) :new: 
 - [RecyclerView Item Margins and Padding](android/recyclerview-margins.md)
-- [Data Binding for <include> Layout](android/include-databinding.md)
+- [Data Binding for <include> Layout](android/include-databinding.md) :clock330:
 
 ### Firebase
 - [Firebase Notifications in Background & Foreground](firebase/notifs-background.md)
