@@ -39,7 +39,7 @@ _24 TILs and counting..._
 - [Creating Separate Modules for Debug And Release](android/debug-release-modules.md)
 - [RecyclerView Scrolling Issue with NestedScrollView](android/recycler-scrolling.md) 
 - [Add Logs without Code in Android](android/logs-without-code.md)
-- [Auto Sizing Text Views](android/autosize-textview.md) :new: 
+- [Auto Sizing Text Views](android/autosize-textview.md)
 - [RecyclerView Item Margins and Padding](android/recyclerview-margins.md) :clock330: :soon:
 - [Data Binding for <include> Layout](android/include-databinding.md) :clock330: :soon:
 
