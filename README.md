@@ -40,7 +40,7 @@ _24 TILs and counting..._
 - [RecyclerView Scrolling Issue with NestedScrollView](android/recycler-scrolling.md) 
 - [Add Logs without Code in Android](android/logs-without-code.md)
 - [Auto Sizing Text Views](android/autosize-textview.md) :new: 
-- [RecyclerView Item Margins and Padding](android/recyclerview-margins.md)
+- [RecyclerView Item Margins and Padding](android/recyclerview-margins.md) :clock330: :soon:
 - [Data Binding for <include> Layout](android/include-databinding.md) :clock330: :soon:
 
 ### Firebase
