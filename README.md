@@ -43,7 +43,7 @@ _26 TILs and counting..._
 - [Auto Sizing Text Views](android/autosize-textview.md)
 - [RecyclerView Item Margins and Padding](android/recyclerview-margins.md) :clock330: :soon:
 - [Data Binding for <include> Layout](android/include-databinding.md) :clock330: :soon:
-- [Lots of Errors in Code but Still App Runs in Android Studio](android/errors-app-run.md) :new:
+- [Lots of Errors in Code but Still App Runs in Android Studio](android/errors-app-run.md)
 
 ### Firebase
 - [Firebase Notifications in Background & Foreground](firebase/notifs-background.md)
