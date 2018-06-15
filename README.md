@@ -27,7 +27,7 @@ _26 TILs and counting..._
 - [Gradle Dependencies using Auto Complete with Kotlin](kotlin/gradle-autocomplete.md)
 - [Gradle Dependencies using Google's Way](gradle/gradle-google-way.md)
 - [Defining Constants in Gradle](gradle/gradle-constants.md)
-- [Gradle doesn't run because it can't find tools.jar in JRE](gradle/gradle-jre.md) :new:
+- [Gradle doesn't run because it can't find tools.jar in JRE](gradle/gradle-jre.md)
 
 ### Android
 - [Difference between Build Type, Flavour, and Build Variant in Android](android/buildtype-vs-flavour-variant.md)
