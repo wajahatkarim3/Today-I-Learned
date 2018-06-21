@@ -48,6 +48,9 @@ _28 TILs and counting..._
 ### Firebase
 - [Firebase Notifications in Background & Foreground](firebase/notifs-background.md)
 
+### Unit and Instrumentation Testing
+- [Idling Registry for OkHttp](testing/idling-registry.md)
+
 ---
 ## Inspiration
 Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and first
