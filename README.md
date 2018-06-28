@@ -28,6 +28,7 @@ _28 TILs and counting..._
 - [Gradle Dependencies using Google's Way](gradle/gradle-google-way.md)
 - [Defining Constants in Gradle](gradle/gradle-constants.md)
 - [Gradle doesn't run because it can't find tools.jar in JRE](gradle/gradle-jre.md)
+- [Publishing Your Android Kotlin/Java Library on jCenter]
 
 ### Android
 - [Difference between Build Type, Flavour, and Build Variant in Android](android/buildtype-vs-flavour-variant.md)
