@@ -149,19 +149,19 @@ file. I have commented different lines in the below image to explain it clearly.
 Now, let’s quickly go through these configurations and see what is happening
 here.
 
-**Line 2 and 3: **We are applying our Bintray and Maven plugins.
+**Line 2 and 3:** We are applying our Bintray and Maven plugins.
 
-**Line 8 and 9: **We are specifying Bintray repository and package names. You
+**Line 8 and 9:** We are specifying Bintray repository and package names. You
 can see these in the following image.
 
 ![](res/14.png)
 
-**Line 11: **We are specifying the module name whose AAR/JAR to compile and
+**Line 11:** We are specifying the module name whose AAR/JAR to compile and
 upload on Bintray and jCenter.
 
 ![](res/15.png)
 
-**Line 17, 18, and 19: **These specify the group ID, artifact ID, and version
+**Line 17, 18, and 19:** These specify the group ID, artifact ID, and version
 number respectively. Any library on jCenter is fetched in Android studio using
 this structure.
 
@@ -171,14 +171,14 @@ The group is usually the company or developer name. The artifact is the module
 or library name. And version is just any number in format of
 *major.minor.revision*** **or it can be any other format you find suitable.
 
-**Line 22 to Line 30: **These are the details about the library and are
+**Line 22 to Line 30:** These are the details about the library and are
 self-explanatory.
 
-**Line 47: **This is a condition to check whether project has` local.properties`
+**Line 47:** This is a condition to check whether project has` local.properties`
 file or not. If the file is not available, then the uploading task will not
 execute.
 
-**Line 48 and 49: **These lines will download the gradle tasks for uploading on
+**Line 48 and 49:** These lines will download the gradle tasks for uploading on
 bintray from the specified URLs.
 
 *****
