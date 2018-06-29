@@ -7,9 +7,13 @@ Clap](https://github.com/wajahatkarim3/MediumClap-Android), which allows
 developers to create [Medium](https://medium.com/@Medium) clapping effect in
 Floating Action Buttons with few lines of the code.
 
+[![](res/mediumlib.png)](https://github.com/wajahatkarim3/MediumClap-Android)
+
 The library went on to be featured in different android newsletters and became
 #1 on [Github Trending in
 Kotlin](https://github.com/trending/kotlin?since=daily).
+
+[![](res/trending.png)](https://twitter.com/WajahatKarim/status/1010423309736038400/)
 
 But, one question which I was being asked over and over again was how to publish
 android libraries, especially those written in Kotlin, on jCenter. There are
@@ -33,8 +37,7 @@ your libraries won’t have to add any thing in root `build.gradle` file. All th
 have to do is add a simple `implementation` line in their app `build.gradle`
 file.
 
-<span class="figcaption_hack">The implementation line for [Medium Clap Button
-Library](https://github.com/wajahatkarim3/MediumClap-Android)</span>
+![](res/3.png)
 
 *****
 
@@ -45,9 +48,11 @@ have to signup there. You can signup with Twitter, Facebook, Github, or by
 directly registering your details in it. Click on following to signup on
 Bintray.
 
+[![](res/jfrog.png)](http://bintray.com/)
+
 Once, you are logged in, you will see your dashboard like this:
 
-<span class="figcaption_hack">My Profile Dashboard on JFrog Bintray</span>
+![](res/4.png)
 
 *****
 
@@ -60,7 +65,7 @@ presented with a simple form to fill. Add the library name, and choose Type as
 Maven. Add your preferred license and description. You can also add avatar or
 logo image here as well.
 
-<span class="figcaption_hack">New Repository Form</span>
+![](res/5.png)
 
 *****
 
@@ -68,7 +73,7 @@ Once you have created the repository, you will redirected to the profile
 dashboard. And now you can see your new library in the `Owned Repositories`
 list. Click on the title there, and you will be directed to the repository page.
 
-<span class="figcaption_hack">New Repository Page on JFrog Bintray</span>
+![](res/6.png)
 
 *****
 
@@ -81,10 +86,12 @@ as we use the *Support library* packages in android. Or you can use multiple
 packages for `debug` and `release` modules. I have recently published an article
 about creating different modules for `debug` and `release` as well.
 
+![](res/debug-release.png)
+
 So, now click on the big green `Add New Package` button and you will see a
 little long form to fill the details of the module package like this.
 
-<span class="figcaption_hack">Add New Package form on JFrog Bintray</span>
+![](res/7.png)
 
 > One important thing to note here is you will have to write your library’s
 > package e.g. `com.wajahatkarim3.clapfab`, as the name here. This is very
@@ -93,7 +100,7 @@ important and we will explain it in upcoming sections.
 After creating the package, go to the repository page. You will see your new
 package added in the list.
 
-<span class="figcaption_hack">Repository Page after Package Added in JFrog Bintray</span>
+![](res/8.png)
 
 Now, click on the Package name link and you will be directed to the package
 details page. Here, you can see lots of details about your package and options
@@ -101,7 +108,7 @@ to add new versions and whether your package is available on jCenter etc. I have
 highlighted the package name and the maven link in the image. We will discuss
 maven link later.
 
-<span class="figcaption_hack">Package Details Page on JFrog Bintray</span>
+![](res/9.png)
 
 *****
 
@@ -111,13 +118,13 @@ Now, after creating the package, our next target is to add versions. In the
 previous image, you can see the a box highlighting versions section. Click on
 the `New Version` button and you will be directed to a small form like this.
 
-<span class="figcaption_hack">New Version form in JFrog Bintray</span>
+![](res/10.png)
 
 Add the version number in the name field and other option details and click on
 `Create Version` button. And after getting redirected to the package details
 page, you will now see your version in the `Versions` section like this.
 
-<span class="figcaption_hack">Package Details after New Version on JFrog Bintray</span>
+![](res/11.png)
 
 And now we are done with the JFrog Bintray setup. Next, we will upload our
 library JAR or AAR on Bintray using Android Studio.
@@ -132,12 +139,12 @@ our library module code in Android Studio.
 The first step is to add Bintray and Maven plugins in your android project. So,
 add these lines in your root` build.gradle` file.
 
-<span class="figcaption_hack">Adding Bintray and Maven Plugins</span>
+![](res/12.png)
 
 Now, you have to setup your library configs in the library’s` build.gradle`
 file. I have commented different lines in the below image to explain it clearly.
 
-<span class="figcaption_hack">The Library Module Configurations</span>
+![](res/13.png)
 
 Now, let’s quickly go through these configurations and see what is happening
 here.
@@ -147,18 +154,18 @@ here.
 **Line 8 and 9: **We are specifying Bintray repository and package names. You
 can see these in the following image.
 
-<span class="figcaption_hack">Bintray Repository and Package Names</span>
+![](res/14.png)
 
 **Line 11: **We are specifying the module name whose AAR/JAR to compile and
 upload on Bintray and jCenter.
 
-<span class="figcaption_hack">The Library name to compile and upload on Bintray</span>
+![](res/15.png)
 
 **Line 17, 18, and 19: **These specify the group ID, artifact ID, and version
 number respectively. Any library on jCenter is fetched in Android studio using
 this structure.
 
-<span class="figcaption_hack">The Group, Artifact, and Version of Library</span>
+![](res/16.png)
 
 The group is usually the company or developer name. The artifact is the module
 or library name. And version is just any number in format of
@@ -186,11 +193,11 @@ our Bintray API key.
 Click on your username on top-right in Bintray dashboard and click on the *Edit
 Profile *button. And then click on the **API Key **from the navigation menu.
 
-<span class="figcaption_hack">The API Key screen</span>
+![](res/17.png)
 
 Copy your API key and add these lines in your` local.properties` file.
 
-<span class="figcaption_hack">Bintray Username and API key</span>
+![](res/18.png)
 
 *****
 
@@ -200,24 +207,23 @@ After all the configurations and API key setups, it’s time to compile your
 module and create AAR/JAR files. You can do it by running this command in
 terminal in your project’s root directory.
 
-<span class="figcaption_hack">Compiling the module</span>
+![](res/19.png)
 
 > If you get any error related to javadoc or see something like the below image,
 > then use this workaround. With this workaround, your library methods will not
 have the documentation. I haven’t figured out the solution of this issue yet. If
 you find it, do let me know in the comments.
 
-<span class="figcaption_hack">The javadoc error</span>
+![](res/20.png)
 
 Add these lines in your root` build.gradle` file to solve this javadoc issue.
 
-<span class="figcaption_hack">Disable javadoc generation while building module</span>
+![](res/21.png)
 
 And now when you run the same` gradlew install` command, then you will see a
 *Build Successful* message like this.
 
 ![](https://cdn-images-1.medium.com/max/1600/1*i9eyOLQIINyqcdh4tipwOw.png)
-<span class="figcaption_hack">Build Successful</span>
 
 Now your library is ready to be uploaded on Bintray.
 
@@ -228,17 +234,17 @@ Now your library is ready to be uploaded on Bintray.
 Now after successful build, its time to upload your library on Bintray. We can
 do it by running this command in same terminal.
 
-<span class="figcaption_hack">Uploading on Bintray Gradle Command</span>
+![](res/23.png)
 
 After successful run of the command, you will see a *Build Successful *message
 like this.
 
-<span class="figcaption_hack">Successful Build of Upload Task</span>
+![](res/24.png)
 
 Your AAR/JAR files are uploaded on Bintray now. You can check this in the
 version details of repository package in Bintray dashboard.
 
-<span class="figcaption_hack">Version Uploaded</span>
+![](res/25.png)
 
 *****
 
@@ -250,7 +256,7 @@ approval. You only have to do this procedure only one time. The approval can
 take few hours to 2–3 days time. You can submit it from your package details in
 Bintray dashboard like the image below.
 
-<span class="figcaption_hack">Submitting for jCenter approval</span>
+![](res/26.png)
 
 Click on the **Add to jCenter **button and you will be directed to compose a new
 message. Add your library description in the message and click on **Send**. Now
@@ -258,7 +264,7 @@ after approval, you will get an email and a message on Bintray dashboard to let
 you know about the approval. And then you will see a badge of jCenter in your
 Package details page.
 
-<span class="figcaption_hack">The jCenter badge</span>
+![](res/27.png)
 
 *****
 
@@ -266,3 +272,5 @@ Package details page.
 
 And now your library can be used through jCenter and using gradle implementation
 like like this.
+
+![](res/28.png)
