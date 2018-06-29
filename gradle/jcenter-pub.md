@@ -266,38 +266,3 @@ Package details page.
 
 And now your library can be used through jCenter and using gradle implementation
 like like this.
-
-*****
-
-**Wajahat Karim **is an experienced android developer, an active open source
-contributor, and co-author of two books [Learning Android
-Intents](https://www.amazon.com/Learning-Android-Intents-Muhammad-Usama/dp/1783289635)
-and [Mastering Android Game Development with
-Unity](https://www.amazon.com/Mastering-Android-Game-Development-Unity/dp/1783550775/).
-In his spare time, he likes to spend time with his family or do experiments on
-coding and open source, and loves to write about lots of things. Follow him on
-Twitter and [Medium](https://medium.com/@wajahatkarim3) to get more updates
-about his work in Writing, Android and Open Source.
-
-Also, if you have any questions you’d like him to answer, contact him through
-his website at [wajahatkarim.com](http://wajahatkarim.com/) with DEAR WAJAHAT in
-the subject line.
-
-* [Android](https://android.jlelse.eu/tagged/android?source=post)
-* [Android App
-Development](https://android.jlelse.eu/tagged/android-app-development?source=post)
-* [Java](https://android.jlelse.eu/tagged/java?source=post)
-* [Kotlin](https://android.jlelse.eu/tagged/kotlin?source=post)
-* [Gradle](https://android.jlelse.eu/tagged/gradle?source=post)
-
-From a quick cheer to a standing ovation, clap to show how much you enjoyed this
-story.
-
-### [Wajahat Karim](https://android.jlelse.eu/@WajahatKarim3)
-
-Android Developer. UI/UX Designer. Blogger. Writer. Wantrepreneur. GitHub Geek.
-Tea Lover
-
-### [AndroidPub](https://android.jlelse.eu/?source=footer_card)
-
-The Pub(lication) for Android & Tech, focused on Development
