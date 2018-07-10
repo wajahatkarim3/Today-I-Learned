@@ -10,9 +10,7 @@ First, you need to include it in your project using traditional way of ```implem
 Here, you can see 1 or more directories with long key hashe names. Each directory will contain either ```AAR``` or ```JAR``` or ```POM``` file. Copy the ```AAR``` file and paste it in your ```app```'s ```libs``` directory. Ant then add this line in your app level ```build.gradle``` file.
 
 ```groovy
-implementation ('LIBRARY_PACKAGE_NAME:MODULE_NAME:VERSION_NAME@aar') {
+implementation ('libs/LIBRARY_AAR_FILE_NAME_WITH_EXTENSION') {
         transitive true
     }
 ```
-
-Please note the ```@aar``` in the above line. This is very important. And now when you sync the project, the project will compile your local ```AAR``` in your project.
