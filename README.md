@@ -47,6 +47,7 @@ _28 TILs and counting..._
 - [Data Binding for <include> Layout](android/include-databinding.md) :clock330:
 - [Lots of Errors in Code but Still App Runs in Android Studio](android/errors-app-run.md)
 - [Combining Urdu String through Data Binding](android/combine-str-urdu.md)
+- [The requireActivity() and requireContext() example](android/req-act.md)
 
 ### Firebase
 - [Firebase Notifications in Background & Foreground](firebase/notifs-background.md)
