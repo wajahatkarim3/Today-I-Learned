@@ -4,7 +4,3 @@ Kotlin supports a technique called **conventions**, everyone should be familiar 
 
 
 
-
-
-
-
