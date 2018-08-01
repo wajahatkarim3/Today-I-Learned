@@ -16,5 +16,5 @@ data class Fraction(val numerator: Int, val denominator: Int) {
 }
 ```
 
-
+We have a data class with two user-defined properties: *numerator* and *denominator*. If we print a `Fraction` to the console, it’s supposed to look like “2/3”, so the `toString()` is being overridden. Also, for comparing two `Fraction` instances, a [lazy](https://kotlinlang.org/docs/reference/delegated-properties.html) property is included for providing the decimal value of the fraction.
 
