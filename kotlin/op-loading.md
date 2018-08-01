@@ -8,3 +8,13 @@ In the following descriptions, I’m going to use a class representing a *mathem
  complete and also won’t provide mathematically perfect implementations.
  Just in case, you feel like knowing a much better implementation.
 
+```kotli
+data class Fraction(val numerator: Int, val denominator: Int) {
+    val decimal by lazy { numerator.toDouble() / denominator }
+
+    override fun toString() = "$numerator/$denominator"
+}
+```
+
+
+
