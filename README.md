@@ -22,7 +22,7 @@ _28 TILs and counting..._
 - [Launching Activities using Kotlin DSL](kotlin/activity-dsl.md)
 - [The with() operator in Kotlin](kotlin/with-kotlin.md) 
 - [Asynchronous Calls in Koltin](kotlin/async-kotlin.md)
-- [Operator Overloading in Kotlin]
+- [Operator Overloading in Kotlin](kotlin/op-loading.md)
 
 ### Gradle
 - [Gradle Dependencies using Auto Complete with Kotlin](kotlin/gradle-autocomplete.md)
