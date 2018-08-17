@@ -2,7 +2,7 @@
 
 ### Encrypt Strings
 
-Please copy the [AESUtils]() class in your project first and then you can use it like this.
+Please copy the [AESUtils](#aesutils-class) class in your project first and then you can use it like this.
 
 ```java
 String encrypted = "";
@@ -14,6 +14,21 @@ try {
     e.printStackTrace();
 }
 ```
+
+### Decrypt Strings
+Please copy the [AESUtils](#aesutils-class) class in your project first and then you can use it like this.
+
+```java
+String encrypted = "ANY_ENCRYPTED_STRING_HERE";
+String decrypted = "";
+try {
+    decrypted = AESEncryptionDecryption.decrypt(encrypted);
+    Log.d("TEST", "decrypted:" + decrypted);
+} catch (Exception e) {
+    e.printStackTrace();
+}
+```
+
 
 ### AESUtils Class
 
