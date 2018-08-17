@@ -22,7 +22,7 @@ Please copy the [AESUtils](#aesutils-class) class in your project first and then
 String encrypted = "ANY_ENCRYPTED_STRING_HERE";
 String decrypted = "";
 try {
-    decrypted = AESEncryptionDecryption.decrypt(encrypted);
+    decrypted = AESUtils.decrypt(encrypted);
     Log.d("TEST", "decrypted:" + decrypted);
 } catch (Exception e) {
     e.printStackTrace();
