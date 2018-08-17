@@ -1,5 +1,22 @@
 # Encrypt / Decrypt Strings in Android
 
+### Encrypt Strings
+
+Please copy the [AESUtils]() class in your project first and then you can use it like this.
+
+```java
+String encrypted = "";
+String sourceStr = "This is any source string";
+try {
+    encrypted = AESUtils.encrypt(sourceStr);
+    Log.d("TEST", "encrypted:" + encrypted);
+} catch (Exception e) {
+    e.printStackTrace();
+}
+```
+
+### AESUtils Class
+
 The easiest way of implementing [AES Encryption and Decryption](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard) in Android is to copy this class in your projects.
 
 ```java
