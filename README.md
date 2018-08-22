@@ -49,7 +49,7 @@ _34 TILs and counting..._
 - [Lots of Errors in Code but Still App Runs in Android Studio](android/errors-app-run.md)
 - [Combining Urdu String through Data Binding](android/combine-str-urdu.md)
 - [The requireActivity() and requireContext() example](android/req-act.md)
-- [Encrypt/Decrypt Strings in Android](android/encryptdec.md)
+- [Encrypt/Decrypt Strings in Android](android/encryptdec.md) :mew:
 
 ### Firebase
 - [Firebase Notifications in Background & Foreground](firebase/notifs-background.md)
