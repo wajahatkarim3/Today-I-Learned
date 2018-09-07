@@ -40,3 +40,10 @@ After 2-3 hours of troubleshooting and debugging, I found out that problem is no
 
 # Solution
 So, here's the solution which worked for me.
+
+First, you need to add your login credentials in ```gradle.properties``` file. **Please note that this is not recommended to share your credentials this way. I am looking for more optimal and secure solution. If you have any way, do let me know.**
+
+```groovy
+mavenUser = MY_USER_NAME
+mavenPassword = MY_PASSWORD
+```
