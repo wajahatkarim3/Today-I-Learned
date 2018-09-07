@@ -47,3 +47,21 @@ First, you need to add your login credentials in ```gradle.properties``` file. *
 mavenUser = MY_USER_NAME
 mavenPassword = MY_PASSWORD
 ```
+THen, you need to add your private maven URL in root ```build.gradle``` file like this:
+```groovy
+allprojects {
+    repositories {
+        // ...
+        maven {
+            credentials  {
+                username = "${mavenUser}"
+                password = "${mavenPassword}"
+            }
+            url "http://my.private.artifactory/url/goes/here"
+            authentication {
+                basic(BasicAuthentication)
+            }
+        }
+    }
+}
+```
