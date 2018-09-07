@@ -58,7 +58,7 @@ allprojects {
                 password = "${mavenPassword}"
             }
             url "http://my.private.artifactory/url/goes/here"
-            authentication {
+            authentication {                            // I was missing this authentication section and that's why read timeout
                 basic(BasicAuthentication)
             }
         }
