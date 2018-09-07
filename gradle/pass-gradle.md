@@ -65,3 +65,10 @@ allprojects {
     }
 }
 ```
+My mistake was I was missing ```authentication``` block and that's why Android studio couldn't get logged in private URL and after multiple failed retries, it was getting ```read timeout``` response. Adding this authentication block worked for me.
+
+```groovy
+authentication {                            
+    basic(BasicAuthentication)
+}
+```
