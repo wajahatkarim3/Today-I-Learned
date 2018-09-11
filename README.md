@@ -3,7 +3,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://wajahatkarim.com)[![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://wajahatkarim.com)
 
-A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. These are things that don't really warrant a full blog post. 
+A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. These are things that don't really warrant a full blog post.  
 
 Read more about why and how I started this at: https://hackernoon.com/today-i-learned-ok-technically-yesterday-65c64e1dcb6
 
@@ -31,7 +31,7 @@ _34 TILs and counting..._
 - [Gradle doesn't run because it can't find tools.jar in JRE](gradle/gradle-jre.md)
 - [Publishing Your Android Kotlin/Java Library on jCenter](gradle/jcenter-pub.md)
 - [Where to get AAR file of any library?](gradle/aar-file.md)
-- [Adding Password Protected Maven Repository URL in Gradle](gradle/pass-gradle.md)
+- [Adding Password Protected Maven Repository URL in Gradle](gradle/pass-gradle.md) :new:
 
 ### Android
 - [Difference between Build Type, Flavour, and Build Variant in Android](android/buildtype-vs-flavour-variant.md)
