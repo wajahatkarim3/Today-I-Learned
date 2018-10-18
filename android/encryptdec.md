@@ -1,5 +1,9 @@
 # Encrypt / Decrypt Strings in Android
 
+### Third-party Lib
+A better and more secure way is implemented in [this library](https://github.com/tozny/java-aes-crypto). 
+
+
 ### Encrypt Strings
 
 Please copy the [AESUtils](#aesutils-class) class in your project first and then you can use it like this.
