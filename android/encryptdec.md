@@ -114,6 +114,3 @@ public class AESUtils
     }
 }
 ```
-
-And then you use it like this:
-
