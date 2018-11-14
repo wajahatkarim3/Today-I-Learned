@@ -51,7 +51,7 @@ _36 TILs and counting..._
 - [Combining Urdu String through Data Binding](android/combine-str-urdu.md)
 - [The requireActivity() and requireContext() example](android/req-act.md)
 - [Encrypt/Decrypt Strings in Android](android/encryptdec.md)
-- [Show/Hide Password in EditText)(android/show-hide-pass.md)
+- [Show/Hide Password in EditText](android/show-hide-pass.md)
 
 ### Firebase
 - [Firebase Notifications in Background & Foreground](firebase/notifs-background.md)
