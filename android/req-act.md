@@ -41,4 +41,9 @@ But, this is also almost same as bad as the previous example. Luckily, in Suppor
     }
 ```
 
+## Update
 Now, this method will make sure that ```Fragment``` is attached and returns a valid non-null ```Activity``` which we can use without any trouble.
+
+EDIT: Thanks to @humblerookie for pointing out that if the Fragment is not attached to the `Activity` , then the `requireActivity()` or `requireContext()` methods will throw `IllegalStateException` .
+
+Credits: https://twitter.com/renaud_mathieu/status/1019222211004129282
