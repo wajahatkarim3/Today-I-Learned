@@ -4,25 +4,25 @@ To showing/hiding the password dots in the `EditText` in android, here's the eas
 
 Here's the dummy layout with an `EditText` and a `CheckBox` for toggling the password dots.
 ```xml
-<?xml version=”1.0" encoding=”utf-8"?>
-<LinearLayout xmlns:android=”http://schemas.android.com/apk/res/android"
-  android:layout_width=”match_parent”
-  android:layout_height=”match_parent”
-  android:layout_margin=”16dp”
-  android:orientation=”vertical”>
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  android:layout_margin="16dp"
+  android:orientation="vertical">
 
     <EditText
-      android:id=”@+id/edtPassword”
-      android:layout_width=”match_parent”
-      android:layout_height=”wrap_content”
-      android:hint=”Enter password”
-      android:inputType=”textPassword” />
+      android:id="@+id/edtPassword"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:hint="Enter password"
+      android:inputType="textPassword" />
 
     <android.support.v7.widget.AppCompatCheckBox
-      android:id=”@+id/checkbox”
-      android:layout_width=”wrap_content”
-      android:layout_height=”wrap_content”
-      android:text=”Show Password” />
+      android:id="@+id/checkbox"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="Show Password" />
       
 </LinearLayout> 
 ```
