@@ -52,6 +52,7 @@ _36 TILs and counting..._
 - [The requireActivity() and requireContext() example](android/req-act.md)
 - [Encrypt/Decrypt Strings in Android](android/encryptdec.md)
 - [Show/Hide Password in EditText](android/show-hide-pass.md)
+- [Converting JSONObject to HashMap<>](android/convert-json-map.md)
 
 ### Firebase
 - [Firebase Notifications in Background & Foreground](firebase/notifs-background.md)
