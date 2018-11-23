@@ -201,7 +201,7 @@ public AlertDialog showDialog(String title, String msg, String positiveLabel,
                            boolean isCancelAble)
     {
         AlertDialog.Builder builder = new AlertDialog.Builder(this);
-        builder.setTitle(title);/* getString(R.string.app_name) */
+        builder.setTitle(title);
         builder.setCancelable(isCancelAble);
         builder.setMessage(msg);
         builder.setPositiveButton(positiveLabel, positiveOnClick);
