@@ -53,6 +53,7 @@ _38 TILs and counting..._
 - [Encrypt/Decrypt Strings in Android](android/encryptdec.md)
 - [Show/Hide Password in EditText](android/show-hide-pass.md)
 - [Converting JSONObject to HashMap<>](android/convert-json-map.md)
+- [Multiple Runtime Permissions in Android without any library](android/runtime-perms.md)
 
 ### Firebase
 - [Firebase Notifications in Background & Foreground](firebase/notifs-background.md)
