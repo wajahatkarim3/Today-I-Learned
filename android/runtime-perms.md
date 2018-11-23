@@ -94,6 +94,8 @@ Now, if the `listPermissionsNeeded` is not empty, that means that at least one o
 
 Now, here's how the whole case goes after requesting permissions. First time, android will show the permissions normally. If all are accepted, then everything goes normally. If any one or all are denied, then it shows the explanation dialog (created by developer) to tell the user why permissions are important. And this dialog will allow the user to grant permissions again. Now, android will show the permission dialog again but this time with an extra checkbox "Never ask again".
 
+![](https://i.stack.imgur.com/qVfvE.png)
+
 Now, if any of the permission has been denied with "Never ask again" check, then that permission can only be allowed from the settings of the app. Now my app cannot work without these permissions, so we will show an other dialog which will allow the user to go to settings screen of the app and allow the permissions manually. 
 
 Another method `ActivityCompat.shouldShowRequestPermissionRationale(context, permission)` keeps the record for "Never ask again" check. If this method returns `true`, that means that Android will show the request permission dialog. And if `false`, Android will not show the dialog as user has checked "Never ask again". So that means that you will have to redirect the user to the `Settings -> Permissions` screen so that user can allow the permission manually.   
