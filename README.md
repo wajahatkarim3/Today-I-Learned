@@ -45,7 +45,7 @@ _39 TILs and counting..._
 - [RecyclerView Scrolling Issue with NestedScrollView](android/recycler-scrolling.md) 
 - [Add Logs without Code in Android](android/logs-without-code.md)
 - [Auto Sizing Text Views](android/autosize-textview.md)
-- [RecyclerView Item Margins and Padding](android/recyclerview-margins.md) :clock330: :soon:
+- [RecyclerView Item Margins and Padding](android/recyclerview-margins.md)
 - [Data Binding for <include> Layout](android/include-databinding.md) :clock330:
 - [Lots of Errors in Code but Still App Runs in Android Studio](android/errors-app-run.md)
 - [Combining Urdu String through Data Binding](android/combine-str-urdu.md)
