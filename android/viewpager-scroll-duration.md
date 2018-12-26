@@ -33,3 +33,6 @@ public class CustomScroller extends Scroller {
         super.startScroll(startX, startY, dx, dy, mDuration);
     }
 }
+```
+
+Credits: https://antoniocappiello.com/2015/10/31/spicy-up-your-viewpager-part-1-tune-the-scroll-duration/
