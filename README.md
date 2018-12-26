@@ -7,7 +7,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 Read more about why and how I started this at: https://hackernoon.com/today-i-learned-ok-technically-yesterday-65c64e1dcb6
 
-_39 TILs and counting..._
+_40 TILs and counting..._
 
 **You can check my TILs list [here](https://wajahatkarim.com/tags/today-i-learned/)**
 
@@ -54,6 +54,7 @@ _39 TILs and counting..._
 - [Show/Hide Password in EditText](android/show-hide-pass.md)
 - [Converting JSONObject to HashMap<>](android/convert-json-map.md)
 - [Multiple Runtime Permissions in Android without any library](android/runtime-perms.md)
+- [Customizing the Scroll Duration of ViewPager](android/viewpager-scroll-duration.md) 
 
 ### Firebase
 - [Firebase Notifications in Background & Foreground](firebase/notifs-background.md)
