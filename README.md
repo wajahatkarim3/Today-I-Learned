@@ -55,6 +55,7 @@ _40 TILs and counting..._
 - [Converting JSONObject to HashMap<>](android/convert-json-map.md)
 - [Multiple Runtime Permissions in Android without any library](android/runtime-perms.md)
 - [Customizing the Scroll Duration of ViewPager](android/viewpager-scroll-duration.md) 
+- [Nested scrollview automatically scrolls to bottom](android/nested-scroll-view-bottom.md)
 
 ### Firebase
 - [Firebase Notifications in Background & Foreground](firebase/notifs-background.md)
