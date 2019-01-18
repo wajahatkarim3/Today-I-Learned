@@ -56,6 +56,7 @@ _40 TILs and counting..._
 - [Multiple Runtime Permissions in Android without any library](android/runtime-perms.md)
 - [Customizing the Scroll Duration of ViewPager](android/viewpager-scroll-duration.md) 
 - [Nested scrollview automatically scrolls to bottom](android/nested-scroll-view-bottom.md)
+- [Gone Margins in Constraint Layout](android/gone-margins-constraint.md)
 
 ### Firebase
 - [Firebase Notifications in Background & Foreground](firebase/notifs-background.md)
