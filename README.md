@@ -57,6 +57,7 @@ _40 TILs and counting..._
 - [Customizing the Scroll Duration of ViewPager](android/viewpager-scroll-duration.md) 
 - [Nested scrollview automatically scrolls to bottom](android/nested-scroll-view-bottom.md)
 - [Gone Margins in Constraint Layout](android/gone-margins-constraint.md)
+- [Enable/Disable Swipe of ViewPager or Swipeable ViewPager](android/swipeable-viewpager.md)
 
 ### Firebase
 - [Firebase Notifications in Background & Foreground](firebase/notifs-background.md)
