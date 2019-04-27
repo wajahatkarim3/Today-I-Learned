@@ -58,6 +58,7 @@ _43 TILs and counting..._
 - [Nested scrollview automatically scrolls to bottom](android/nested-scroll-view-bottom.md)
 - [Gone Margins in Constraint Layout](android/gone-margins-constraint.md)
 - [Enable/Disable Swipe of ViewPager or Swipeable ViewPager](android/swipeable-viewpager.md)
+- [Android Oreo or later versions not loading URLs (cleartext traffic not permitted)](android/OreoUrlsLoading.md)
 
 ### Firebase
 - [Firebase Notifications in Background & Foreground](firebase/notifs-background.md)
