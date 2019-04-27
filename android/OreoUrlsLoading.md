@@ -71,3 +71,8 @@ AndroidManifest.xml -
     ...
 </manifest>
 ```
+
+## References
+https://stackoverflow.com/questions/51770323/how-to-solve-android-p-downloadmanager-stopping-with-cleartext-http-traffic-to
+https://stackoverflow.com/questions/45940861/android-8-cleartext-http-traffic-not-permitted
+
