@@ -32,6 +32,7 @@ _43 TILs and counting..._
 - [Publishing Your Android Kotlin/Java Library on jCenter](gradle/jcenter-pub.md)
 - [Where to get AAR file of any library?](gradle/aar-file.md)
 - [Adding Password Protected Maven Repository URL in Gradle](gradle/pass-gradle.md)
+- [Generate Navigation Direction Classes in Kotlin with Safe Args Plugin](gradle/dir-classes-kotlin.md)
 
 ### Android
 - [Difference between Build Type, Flavour, and Build Variant in Android](android/buildtype-vs-flavour-variant.md)
