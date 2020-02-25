@@ -34,7 +34,8 @@ _44 TILs and counting..._
 - [Adding Password Protected Maven Repository URL in Gradle](gradle/pass-gradle.md)
 - [Generate Navigation Direction Classes in Kotlin with Safe Args Plugin](gradle/dir-classes-kotlin.md)
 - [This version of Android Studio cannot open this project, please retry with Android Studio x.x or newer](gradle/android-studio-version-build-fail.md)
-- [Forcing any dependency to be looked in any specific repository](gradle/forcing-depenency-for-specific-repository.md) ![](https://img.shields.io/badge/%F0%9F%93%84%20-NEW-red.svg)
+- [Forcing any dependency to be looked in any specific repository](gradle/forcing-depenency-for-specific-repository.md) 
+- [Displaying the Dependency Graph of whole project](gradle/dependency-graph-project.md) ![](https://img.shields.io/badge/%F0%9F%93%84%20-NEW-red.svg)
 
 ### Android
 - [Difference between Build Type, Flavour, and Build Variant in Android](android/buildtype-vs-flavour-variant.md)
