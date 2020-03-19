@@ -35,7 +35,7 @@ _45 TILs and counting..._
 - [Generate Navigation Direction Classes in Kotlin with Safe Args Plugin](gradle/dir-classes-kotlin.md)
 - [This version of Android Studio cannot open this project, please retry with Android Studio x.x or newer](gradle/android-studio-version-build-fail.md)
 - [Forcing any dependency to be looked in any specific repository](gradle/forcing-depenency-for-specific-repository.md) 
-- [Displaying the Dependency Graph of whole project](gradle/dependency-graph-project.md) ![](https://img.shields.io/badge/%F0%9F%93%84%20-NEW-red.svg)
+- [Displaying the Dependency Graph of whole project](gradle/dependency-graph-project.md) 
 
 ### Android
 - [Difference between Build Type, Flavour, and Build Variant in Android](android/buildtype-vs-flavour-variant.md)
@@ -63,6 +63,8 @@ _45 TILs and counting..._
 - [Gone Margins in Constraint Layout](android/gone-margins-constraint.md)
 - [Enable/Disable Swipe of ViewPager or Swipeable ViewPager](android/swipeable-viewpager.md)
 - [Android Oreo or later versions not loading URLs (cleartext traffic not permitted)](android/OreoUrlsLoading.md)
+- [How to Simulate Android Kill Process for Your Debug Apps?](android/android-kill-process.md) ![](https://img.shields.io/badge/%F0%9F%93%84%20-NEW-red.svg)
+
 
 ### Firebase
 - [Firebase Notifications in Background & Foreground](firebase/notifs-background.md)
