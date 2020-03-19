@@ -63,7 +63,7 @@ _45 TILs and counting..._
 - [Gone Margins in Constraint Layout](android/gone-margins-constraint.md)
 - [Enable/Disable Swipe of ViewPager or Swipeable ViewPager](android/swipeable-viewpager.md)
 - [Android Oreo or later versions not loading URLs (cleartext traffic not permitted)](android/OreoUrlsLoading.md)
-- [How to Simulate Android Kill Process for Your Debug Apps?](android/android-kill-process.md) ![](https://img.shields.io/badge/%F0%9F%93%84%20-NEW-red.svg)
+- [How to Simulate Android Kill Process for Your Debug Apps?](android/android-kill-simulate.md) ![](https://img.shields.io/badge/%F0%9F%93%84%20-NEW-red.svg)
 
 
 ### Firebase
