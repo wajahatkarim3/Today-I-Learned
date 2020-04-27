@@ -65,6 +65,8 @@ _45 TILs and counting..._
 - [Android Oreo or later versions not loading URLs (cleartext traffic not permitted)](android/OreoUrlsLoading.md)
 - [How to Simulate Android Kill Process for Your Debug Apps?](android/android-kill-simulate.md) ![](https://img.shields.io/badge/%F0%9F%93%84%20-NEW-red.svg)
 
+### Jetpack Compose
+- [Ripple and Clickable Conflict in Jetpack Compose](compose/ripple-clickable.md) :new:
 
 ### Firebase
 - [Firebase Notifications in Background & Foreground](firebase/notifs-background.md)
