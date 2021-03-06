@@ -67,7 +67,8 @@ _45 TILs and counting..._
 - [How to Simulate Android Kill Process for Your Debug Apps?](android/android-kill-simulate.md) ![](https://img.shields.io/badge/%F0%9F%93%84%20-NEW-red.svg)
 
 ### Jetpack Compose
-- [Ripple and Clickable Conflict in Jetpack Compose](compose/ripple-clickable.md) :new:
+- [Ripple and Clickable Conflict in Jetpack Compose](compose/ripple-clickable.md)
+- [Passing Parcelable and Other Data in Navigation Compose](compose/navigation-data-transfer.md) :new:
 
 ### Firebase
 - [Firebase Notifications in Background & Foreground](firebase/notifs-background.md)
