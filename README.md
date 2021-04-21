@@ -7,7 +7,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 Read more about why and how I started this at: https://hackernoon.com/today-i-learned-ok-technically-yesterday-65c64e1dcb6
 
-_45 TILs and counting..._
+_55 TILs and counting..._
 
 **You can check my TILs list [here](https://wajahatkarim.com/tags/today-i-learned/)**
 
@@ -65,6 +65,7 @@ _45 TILs and counting..._
 - [Enable/Disable Swipe of ViewPager or Swipeable ViewPager](android/swipeable-viewpager.md)
 - [Android Oreo or later versions not loading URLs (cleartext traffic not permitted)](android/OreoUrlsLoading.md)
 - [How to Simulate Android Kill Process for Your Debug Apps?](android/android-kill-simulate.md) ![](https://img.shields.io/badge/%F0%9F%93%84%20-NEW-red.svg)
+- [ConcatAdapter and GridLayoutManager Span Size](android/concat-adapter-with-spansize.md)
 
 ### Jetpack Compose
 - [Ripple and Clickable Conflict in Jetpack Compose](compose/ripple-clickable.md)
