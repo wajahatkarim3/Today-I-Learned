@@ -5,7 +5,7 @@ In the app, which I am making at my job, I had a situation where I needed a huge
 This is ```TabLayout``` and ```ViewPager``` in ```XML``` layout.
 
 ```xml
-<android.support.design.widget.CoordinatorLayout>
+<Relative Layout>
 
     <android.support.design.widget.AppBarLayout>
     
@@ -26,7 +26,7 @@ This is ```TabLayout``` and ```ViewPager``` in ```XML``` layout.
             android:layout_height="match_parent"
             app:layout_behavior="@string/appbar_scrolling_view_behavior"  />
 
-</android.support.design.widget.CoordinatorLayout>
+</Relative Layout>
 
 ```
 
