@@ -67,6 +67,7 @@ _55 TILs and counting..._
 - [How to Simulate Android Kill Process for Your Debug Apps?](android/android-kill-simulate.md) ![](https://img.shields.io/badge/%F0%9F%93%84%20-NEW-red.svg)
 - [ConcatAdapter and GridLayoutManager Span Size](android/concat-adapter-with-spansize.md)
 - [Android 12 Deep Links Not Working](android/android-12-deep-links-not-verified.md)
+- [Direct Debugging on Android TVs from Android Studio](android/debugging-on-tv.md)
 
 ### Jetpack Compose
 - [Ripple and Clickable Conflict in Jetpack Compose](compose/ripple-clickable.md)
